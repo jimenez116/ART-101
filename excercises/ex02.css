@@ -1,0 +1,14 @@
+p{color:rgb(255, 255, 255); font-size: large; padding: 20px; background-color: purple;}
+
+Li{text-align: center;}
+
+html{font-family: serif; background-color: pink;}
+
+#small-dog{width: 100px;}
+#large-dog{width: 150px;}
+
+.test-div{background-color: lemonchiffon;
+margin: 30px;
+padding: 40px;}
+
+.my-flex{display:flex;}
