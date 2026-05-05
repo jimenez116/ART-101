@@ -1,0 +1,25 @@
+body { 
+    background: green
+}
+#main-zone {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#top-zone {
+    padding: 20px;
+}
+#main-zone {
+    padding: 20px;
+}
+#tree {
+    width: 400px;
+}
+#goat {
+    width: 300px;
+}
